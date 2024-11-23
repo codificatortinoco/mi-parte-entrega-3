@@ -7,7 +7,10 @@ body{
     align-items: center;
     justify-content: center;
     background-color: #FFF8F1;
+<<<<<<< HEAD
     background-image: url(./Imagenes/fondo.jpg);
+=======
+>>>>>>> 5c83b8f338ab435c74668407bca28f70ded7031c
 }
 h1{
     color: #562809;
@@ -18,7 +21,11 @@ h2{
 #fondo{
     background-color: #FFF8F1;
     width: 50vh;
+<<<<<<< HEAD
     height: 60vh;
+=======
+    height: 80vh;
+>>>>>>> 5c83b8f338ab435c74668407bca28f70ded7031c
     box-shadow:0 4px 8px black;
     display: flex;
     flex-direction: column;
@@ -35,7 +42,11 @@ border: none;
 border-bottom: 2px solid #562809;
 background-color: transparent;
 }
+<<<<<<< HEAD
 #newUser{
+=======
+#Password{
+>>>>>>> 5c83b8f338ab435c74668407bca28f70ded7031c
 border: none;
 border-bottom: 2px solid #562809;
 background-color: transparent;}
@@ -46,12 +57,15 @@ div{
   border: none;
   border-bottom: 2px solid #562809;
   background-color: transparent;}
+<<<<<<< HEAD
 
   #newPassword{
     border: none;
     border-bottom: 2px solid #562809;
     background-color: transparent;}
 
+=======
+>>>>>>> 5c83b8f338ab435c74668407bca28f70ded7031c
   #phoneNumber{
     border: none;
     border-bottom: 2px solid #562809;

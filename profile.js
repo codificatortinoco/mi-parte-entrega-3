@@ -1,3 +1,4 @@
+
 // Function to load user info from local storage
 function loadUserInfo() {
 
@@ -27,4 +28,5 @@ window.onload = loadUserInfo;
 
 // Attach logout function to the logout link
 document.getElementById('logoutLink').addEventListener('click', logout);
+
 

@@ -1,3 +1,4 @@
+
 const newNameInput = document.getElementById('newUser');
 const passInput = document.getElementById('newPassword');
 const newEmail = document.getElementById('email');
@@ -47,3 +48,4 @@ form.addEventListener('submit', (e)=>{
     e.preventDefault()
     editProfile()
 })
+

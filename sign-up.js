@@ -1,4 +1,5 @@
 
+
 const localStorage = window.localStorage
 
 
@@ -51,3 +52,4 @@ form.addEventListener("submit", (e)=>{
     e.preventDefault()
     signUp()
 })
+
